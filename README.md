@@ -1,4 +1,5 @@
 # CAUAppliedStatistis-AnalysisContest-DdareungPlus
+2021 중앙대학교 응용통계학과 분석공모전, 따릉플러스
 
 1. 개요
 * 주제 : 데이터 분석을 통한 따릉이 적자 문제 해결 방안
